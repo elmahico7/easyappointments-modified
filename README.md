@@ -19,7 +19,7 @@ To clone and run this application, you'll need Git, Node.js (which comes with np
 $ git clone https://github.com/elmahico7/easyappointments-modified.git
 
 # Go into the repository
-$ cd easyappointments
+$ cd easyappointments-modified
 
 # Install dependencies
 $ npm install && composer install
