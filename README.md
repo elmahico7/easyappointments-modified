@@ -16,7 +16,7 @@ Setup
 To clone and run this application, you'll need Git, Node.js (which comes with npm) and Composer installed on your computer. From your command line:
 
 # Clone this repository
-$ git clone https://github.com/alextselegidis/easyappointments.git
+$ git clone https://github.com/elmahico7/easyappointments-modified.git
 
 # Go into the repository
 $ cd easyappointments
